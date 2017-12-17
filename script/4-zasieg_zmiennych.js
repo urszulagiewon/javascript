@@ -18,4 +18,4 @@ function policzSumeKasy(iloscOsoby1, iloscOsoby2, iloscOsoby3, iloscOsoby4, wiek
 
 var wynikObliczen = policzSumeKasy(ilosc1, ilosc2, ilosc3, ilosc4, 25);
 
-console.log(wynikObliczen);
+console.log(wynikObliczen, ilosc2 * ilosc3 + ilosc4);
