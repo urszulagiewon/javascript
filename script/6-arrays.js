@@ -27,4 +27,4 @@ var tablicaLiczb = [3, 89, 4, 333, 24, 90, 442];
 
 var posortowanaTablica = imiona.sort();
 
-console.log(posortowanaTablica);
+console.log(posortowanaTablica.join(" ") + tablicaLiczb[0]);
