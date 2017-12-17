@@ -9,7 +9,7 @@ var kolor = "Różowy";
 imie = "Sergio";
 imie = imieDamskie;
 
-//console.log(imie);
+console.log(imie);
 console.log(wiek);
 console.log(kolor);
 

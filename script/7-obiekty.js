@@ -58,3 +58,4 @@ console.log(konFryzyjski);
 konikPolski.wyswietlCalosc();
 
 konFryzyjski.wyswietlCalosc();
+
